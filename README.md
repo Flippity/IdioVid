@@ -1,3 +1,8 @@
 # IdioVid
 
-A forum, chat room, and video sharing platform.
+A forum, chat room, and eventual video sharing platform.
+
+
+
+Discord Link:
+https://discord.gg/jdCASwz
